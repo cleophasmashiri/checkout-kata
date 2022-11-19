@@ -1,0 +1,15 @@
+{
+  "name": "supermarket8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " ./node_modules/mocha/bin/mocha.js checkout.spec.js -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
